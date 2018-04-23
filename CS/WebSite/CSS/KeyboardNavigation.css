@@ -1,0 +1,15 @@
+﻿body {
+	margin-left: 0;
+}
+.legend {
+    font: 9pt Tahoma;
+    margin: auto 30px;
+    width: 172px;
+}
+.key {
+    font-weight: bold;
+    color: #394EA2;
+}
+.arrow {
+	font-weight: normal;
+}
