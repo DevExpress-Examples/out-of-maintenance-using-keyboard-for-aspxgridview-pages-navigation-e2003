@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [KeyboardNavigation.js](./CS/WebSite/JS/KeyboardNavigation.js) (VB: [KeyboardNavigation.js](./VB/WebSite/JS/KeyboardNavigation.js))
+<!-- default file list end -->
 # Using keyboard for ASPxGridView pages navigation
 
 
